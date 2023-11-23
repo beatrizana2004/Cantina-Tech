@@ -1,5 +1,5 @@
 # Cantina-Tech
 - ex
   bhjbhjbh
-  -ex2
+  - ex2
   bhvjbhvjbvhj
